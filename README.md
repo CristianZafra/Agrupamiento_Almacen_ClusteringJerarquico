@@ -14,7 +14,7 @@ Este repositorio contiene un cuaderno interactivo en **Colaboración de Google**
 
 ## Requisitos de los datos
 
-El archivo `. . . . . . . . . . . .csv` debe contener las siguientes columnas:
+El archivo `datos_almacen_clustering.csv` debe contener las siguientes columnas:
 
 - `Item_ID`: identificador del ítem
 - `Frecuencia_uso`: número de veces que el ítem se usa o retira
@@ -23,7 +23,7 @@ El archivo `. . . . . . . . . . . .csv` debe contener las siguientes columnas:
 - `Categoria`: (opcional) clasificación ABC previa
 
 > Puedes usar el archivo de ejemplo:  
->  [datos_almacen_clustering.csv](https://...)
+>  [datos_almacen_clustering.csv](https://github.com/CristianZafra/Agrupamiento_Almacen_ClusteringJerarquico/blob/main/datos_almacen_clustering.csv)
 
 ---
 
